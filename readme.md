@@ -1,3 +1,6 @@
+
+
+
 # Linux & Git Command Cheat Sheet
 
 This cheat sheet contains useful Linux and Git commands with descriptions and examples.
@@ -7,4 +10,9 @@ This cheat sheet contains useful Linux and Git commands with descriptions and ex
 ### 2. `cd`
 - **Description:** Changes the current directory.
 - **Example:** `cd /home/user/Documents`
+### 3. `pwd`
+- **Description:** Prints the current working directory.
+- **Example:** `pwd`                                                                                       ### 4. `mkdir`
+- **Description:** Creates a new directory.
+- **Examle:** `mkdir new_folder`
 
