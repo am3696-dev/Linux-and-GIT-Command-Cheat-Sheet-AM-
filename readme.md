@@ -4,6 +4,8 @@
 # Linux & Git Command Cheat Sheet
 
 This cheat sheet contains useful Linux and Git commands with descriptions and examples.
+
+*Linux Commands:
 ### 1. `ls`
 - **Description:** Lists directory contents.
 - **Example:** `ls -la`
@@ -21,3 +23,7 @@ This cheat sheet contains useful Linux and Git commands with descriptions and ex
 ##6. 'touch'
 -**Description:** Creates a new empty file.  
 -**Example:** touch file.txt
+##7. ' cat'
+- **Description:** Displays the contents of a file.  
+- **Example:** cat file.txt
+
