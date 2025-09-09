@@ -32,3 +32,10 @@ This cheat sheet contains useful Linux and Git commands with descriptions and ex
 ##9. 'mv'
 -**Description:** Moves or renames files and directories. 
 -**Example:** mv old_name.txt new_name.txt
+
+*GIT Commands:
+### 1. `git init`
+- **Description:** Initializes a new local Git repository in the current directory.
+- **Example:** git init
+
+
