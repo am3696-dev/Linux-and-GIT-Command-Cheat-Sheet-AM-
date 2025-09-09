@@ -18,3 +18,6 @@ This cheat sheet contains useful Linux and Git commands with descriptions and ex
 ##5. 'rm'
 - **Description:** Deletes a file. Use rm -r to delete a directory and its contents.
 - **Example:** rm file_to_delete.txt
+##6. 'touch'
+-**Description:** Creates a new empty file.  
+-**Example:** touch file.txt
