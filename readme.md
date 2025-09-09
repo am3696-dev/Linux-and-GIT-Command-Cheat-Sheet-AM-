@@ -4,4 +4,7 @@ This cheat sheet contains useful Linux and Git commands with descriptions and ex
 ### 1. `ls`
 - **Description:** Lists directory contents.
 - **Example:** `ls -la`
+### 2. `cd`
+- **Description:** Changes the current directory.
+- **Example:** `cd /home/user/Documents`
 
