@@ -15,4 +15,6 @@ This cheat sheet contains useful Linux and Git commands with descriptions and ex
 - **Example:** `pwd`                                                                                       ### 4. `mkdir`
 - **Description:** Creates a new directory.
 - **Examle:** `mkdir new_folder`
-
+##5. 'rm'
+- **Description:** Deletes a file. Use rm -r to delete a directory and its contents.
+- **Example:** rm file_to_delete.txt
