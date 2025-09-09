@@ -26,4 +26,6 @@ This cheat sheet contains useful Linux and Git commands with descriptions and ex
 ##7. ' cat'
 - **Description:** Displays the contents of a file.  
 - **Example:** cat file.txt
-
+##8. 'cp'
+-**Description:** Copies files or directories from one location to another.
+-**Example:** cp file1.txt file2.txt
