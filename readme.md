@@ -38,4 +38,3 @@ This cheat sheet contains useful Linux and Git commands with descriptions and ex
 - **Description:** Initializes a new local Git repository in the current directory.
 - **Example:** git init
 
-
