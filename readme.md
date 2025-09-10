@@ -43,4 +43,7 @@ This cheat sheet contains useful Linux and Git commands with descriptions and ex
 ## 12. 'git push'
 - **Description:** Uploads local repository commits to a remote repository.
 - **Example:** git push origin main
+## 13. 'git status'
+- **Description:** Shows the current state of your working directory and staging area.
+- **Example:** git status
 
