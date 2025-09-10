@@ -46,4 +46,7 @@ This cheat sheet contains useful Linux and Git commands with descriptions and ex
 ## 13. 'git status'
 - **Description:** Shows the current state of your working directory and staging area.
 - **Example:** git status
+## 14. 'git log'
+- **Description:** Shows the commit history of your repository.
+- **Example:** git log --oneline --graph --decorate --all
 
