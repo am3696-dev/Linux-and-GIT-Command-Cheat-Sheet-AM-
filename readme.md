@@ -34,7 +34,10 @@ This cheat sheet contains useful Linux and Git commands with descriptions and ex
 -**Example:** mv old_name.txt new_name.txt
 
 *GIT Commands:
-### 1. `git init`
+### 10. `git init`
 - **Description:** Initializes a new local Git repository in the current directory.
 - **Example:** git init
+## 11. 'git clone'
+- **Description:** Copies an existing Git repository from a remote location to your local machine.
+- **Example:** git clone <url>
 
