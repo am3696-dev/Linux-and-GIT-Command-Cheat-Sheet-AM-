@@ -40,4 +40,7 @@ This cheat sheet contains useful Linux and Git commands with descriptions and ex
 ## 11. 'git clone'
 - **Description:** Copies an existing Git repository from a remote location to your local machine.
 - **Example:** git clone <url>
+## 12. 'git push'
+- **Description:** Uploads local repository commits to a remote repository.
+- **Example:** git push origin main
 
