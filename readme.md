@@ -49,4 +49,7 @@ This cheat sheet contains useful Linux and Git commands with descriptions and ex
 ## 14. 'git log'
 - **Description:** Shows the commit history of your repository.
 - **Example:** git log --oneline --graph --decorate --all
+## 15. 'git branch'
+- **Description:** Lists, creates, or deletes branches in your repository.
+- **Example:** git branch new-feature
 
